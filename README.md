@@ -1,4 +1,4 @@
-Implementation of the David-Putnam-Logemann-Loveland algorithm.
+Implementation of the Davis-Putnam-Logemann-Loveland algorithm.
 Uses the most-constrained variable-ordering heuristic
 and the most-common sign value-ordering heuristic
 
